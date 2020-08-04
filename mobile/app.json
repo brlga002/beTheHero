@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Be The hero",
-    "slug": "bethehero",
+    "name": "Seja Um Heroi",
+    "slug": "sejaumheroi",
     "privacy": "public",
     "sdkVersion": "36.0.0",
     "platforms": [
@@ -25,6 +25,10 @@
     ],
     "ios": {
       "supportsTablet": true
+    },
+    "description": "Um aplicativo para ser um herói",
+    "android": {
+      "package": "com.gabriellima.sejaumheroi"
     }
   }
 }
